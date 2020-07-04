@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mapitafive</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="inicio">Inicio</string>
+    <string name="menu_ubicacion">Mapa con Ubicacion</string>
+    <string name="menu_ruta">Mapa con Ruta</string>
+    <string name="menu_gps">Mapa con ruta GPS</string>
+    <string name="title_activity_mapita">Map</string>
+    <string name="title_activity_mapita_g_p_s">Map</string>
+    <string name="title_activity_mapita_ruta">Map</string>
+
+
+</resources>
